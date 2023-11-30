@@ -168,7 +168,7 @@ border: solid 2px white;
 }
 
 .section_2_3 {
-    background-color: #fff;
+    background-color: lightblue;
     background-image: url('img/textura_fundo.jpg');
     background-repeat: repeat;
     opacity: 10;
@@ -187,7 +187,7 @@ body {
 }
 
 footer {
-    background-color: #333;
+    background-color: white;
     color: #fff;
     padding: 20px 0;
     margin: 0;
