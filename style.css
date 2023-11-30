@@ -1,7 +1,7 @@
 
 .header{
     font-family: 'Roboto Mono', monospace;
-    background: url('/img/homem_idoso.jpg') center/cover no-repeat;
+    background: url('mulher-morena-segurando-uma-esteira-de-ioga_23-2148728608.png') center/cover no-repeat;
     position: relative;
     height: 50vh;
     color: #fff;
@@ -30,9 +30,9 @@ font-family: 'Roboto Mono', monospace;
 font-weight: 300;
 font-size: 14px;
 color: black;
-background-color: #fff;
+background-color: #ffffff;
 padding: 10px 30px;
-border: solid #828282 2px;
+border: solid white 2px;
 box-shadow: rgb(0, 0, 0) 0px 0px 0px 0px;
 border-radius: 50px;
 transition : 1000ms;
@@ -49,9 +49,9 @@ margin-top: 3em;
 transition : 1000ms;
 padding: 10px 50px;
 transform : translateY(-0px);
-background-color: #fff;
+background-color:white;
 color: #000000;
-border: solid 2px #b3c8de;
+border: solid 2px white;
 }
 
 .icone_bloco{
@@ -62,7 +62,7 @@ border: solid 2px #b3c8de;
 }
 
 .section1{
-    background-color: #ffe2b73b;
+    background-color: lightblue;
 }
 
 .icones{
@@ -75,7 +75,7 @@ border: solid 2px #b3c8de;
     width: 18em;
     height: 60px;
     display: flex;
-    background-color: #fff;
+    background-color: paleturquoise;
     border-radius: 20px;
 }
 
@@ -84,9 +84,9 @@ font-family: 'Roboto Mono', monospace;
 font-weight: 300;
 font-size: 14px;
 color: black;
-background-color: #fff;
+background-color: white;
 padding: 10px 30px;
-border: solid #828282 2px;
+border: solid white 2px;
 box-shadow: rgb(0, 0, 0) 0px 0px 0px 0px;
 transition : 1000ms;
 transform: translateY(0);
@@ -100,9 +100,9 @@ margin-top: 3em;
 
 .btn2:hover{
 padding: 10px 50px;
-background-color: #fff;
-color: #000000;
-border: solid 2px #b3c8de;
+background-color: white;
+color: white;
+border: solid 2px white;
 }
 
 .button2{
